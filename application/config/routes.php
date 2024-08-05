@@ -109,3 +109,5 @@ $route['laporan_keluar_export'] = 'laporan/keluar_export';
 
 $route['laporan_kadaluarsa'] = 'laporan/kadaluarsa';
 $route['laporan_kadaluarsa_export'] = 'laporan/kadaluarsa_export';
+
+$route['pdf/generate'] = 'PdfController/generate_pdf';

@@ -25,7 +25,7 @@
         function checkAkses($required_levels)
 		{
 			$CI =& get_instance();
-			$user_level = $CI->session->userdata('level');
+			$user_level = $CI->session->userdata('role');
 			
 			if (!is_array($required_levels)) {
 				$required_levels = array($required_levels);
