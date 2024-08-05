@@ -63,8 +63,8 @@ $route['alkon_masuk_proses'] = 'alkon_masuk/proses';
 $route['alkon_masuk_delete/(:any)'] = 'alkon_masuk/delete/$1';
 
 $route['alkon_keluar'] = 'alkon_keluar';
-$route['alkon_masuk_proses'] = 'alkon_masuk/proses';
-$route['alkon_masuk_delete/(:any)'] = 'alkon_masuk/delete/$1';
+$route['alkon_keluar_proses'] = 'alkon_keluar/proses';
+$route['alkon_keluar_delete/(:any)'] = 'alkon_keluar/delete/$1';
 
 $route['alkon_kadaluarsa'] = 'alkon_kadaluarsa';
 

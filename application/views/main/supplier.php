@@ -28,7 +28,7 @@
 															id="alamat" name="alamat" placeholder="Enter Alamat..."></textarea>
 													</div>
 													<button type="submit" class="btn btn-primary btn-user btn-block">
-														Login
+														Simpan
 													</button>
 												</form>
 											</div>

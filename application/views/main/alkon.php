@@ -49,7 +49,7 @@
 															id="expired_date" name="expired_date">
 													</div>
 													<button type="submit" class="btn btn-primary btn-user btn-block">
-														Login
+														Simpan
 													</button>
 												</form>
 											</div>

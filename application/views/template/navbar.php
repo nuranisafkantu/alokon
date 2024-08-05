@@ -1,8 +1,8 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 			
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="<?=	 base_url('dashboard') ?> ">
-                <div class="sidebar-brand-icon rotate-n-15">
-                    <i class="fas fa-book"></i>
+                <div class="sidebar-brand-icon rotate-n-0">
+                    <img src="assets/logo.png" width="80" height="50"></img>
                 </div>
                 <div class="sidebar-brand-text mx-3">SIM <sup>Dalkon</sup></div>
             </a>
